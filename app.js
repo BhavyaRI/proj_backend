@@ -5,7 +5,7 @@ const bookingRoutes = require('./src/routes/bookings');
 const app = express();
 
 app.use(cors({
-    origin: "*",
+  origin: 'https://proj-frontend-eight.vercel.app'
 }));
 
 app.use((req,res,next)=>{
