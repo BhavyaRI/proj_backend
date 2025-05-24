@@ -1,0 +1,25 @@
+[
+  {
+  "Stadium Alpha": {
+    "address": "123 Main Street, Cityville",
+    "sports": ["Football", "Tennis", "Basketball"]
+  },
+  "Central Sports Complex": {
+    "address": "456 Elm Road, Townburg",
+    "sports": ["Cricket", "Swimming", "Badminton"]
+  },
+  "Skyline Arena": {
+    "address": "789 Oak Avenue, Metrocity",
+    "sports": ["Volleyball", "Table Tennis", "Squash"]
+  },
+  "Riverside Club": {
+    "address": "321 Riverbank Blvd, Lakeside",
+    "sports": ["Hockey", "Skating", "Archery"]
+  },
+  "Greenfield Grounds": {
+    "address": "654 Pine Lane, Countryside",
+    "sports": ["Athletics", "Rugby", "Golf"]
+  }
+}
+
+]
